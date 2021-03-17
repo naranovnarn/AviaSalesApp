@@ -1,0 +1,6 @@
+export const GET_SEARCH_ID = 'GET_SEARCH_ID';
+export const GET_TICKETS = 'GET_TICKETS';
+export const START_LOADING = 'START_LOADING';
+export const FINISH_LOADING = 'FINISH_LOADING';
+export const CHANGE_FILTER = 'CHANGE_FILTER';
+export const CHANGE_TAB = 'CHANGE_TAB';
